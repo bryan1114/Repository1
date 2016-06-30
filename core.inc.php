@@ -28,3 +28,4 @@ function getuser($field){
 			die(mysql_error());
 		}
 }
+?>
